@@ -1,0 +1,21 @@
+name,ring,quadrant,isNew,description
+hold_1,hold,Programming Languages and Frameworks,TRUE,some random description
+hold_2,hold,Tools,TRUE,some random description
+hold_3,hold,Platforms,FALSE,some random description
+hold_4,hold,Techniques,FALSE,some random description
+hold_5,hold,Programming Languages and Frameworks,TRUE,some random description
+assess_1,assess,Tools,TRUE,some random description
+assess_2,assess,Platforms,FALSE,some random description
+assess_3,assess,Techniques,FALSE,some random description
+assess_4,assess,Programming Languages and Frameworks,TRUE,some random description
+assess_5,assess,Tools,TRUE,some random description
+trial_1,trial,Platforms,FALSE,some random description
+trial_2,trial,Techniques,FALSE,some random description
+trial_3,trial,Programming Languages and Frameworks,TRUE,some random description
+trial_4,trial,Tools,TRUE,some random description
+trial_5,trial,Platforms,FALSE,some random description
+adopt_1,adopt,Techniques,FALSE,some random description
+adopt_2,adopt,Programming Languages and Frameworks,TRUE,some random description
+adopt_3,adopt,Tools,TRUE,some random description
+adopt_4,adopt,Platforms,FALSE,some random description
+adopt_5,adopt,Techniques,FALSE,some random description
